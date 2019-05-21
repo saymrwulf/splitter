@@ -1,5 +1,5 @@
 module.exports = {
-  
+  /*
   networks: {
     development: {    // this one is optional and reduces "failing fast" dummerweise
       host: "127.0.0.1",
@@ -22,5 +22,5 @@ module.exports = {
       network_id: "3"
     }
   }
-
+  */
 };
